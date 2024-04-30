@@ -17,7 +17,7 @@ AMT_INCOME_TOTAL, AMT_CREDIT, FLAG_OWN_CAR, FLAG_OWN_REALTY
 
 The success of this project lies on the effective identification of both low and high-risk
 customers. By achieving this, Home Credit can expand its loan offerings for low-risk customers,
-thereby increasing revenue genera@on and enhancing overall profitability.
+thereby increasing revenue generation and enhancing overall profitability.
 
 The project output will include a roster of customers who are likely to repay the loan amount,
 ensuring that individuals with no credit history are not rejected.
