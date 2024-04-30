@@ -15,7 +15,7 @@ The binary target variable is the "target" column, indica@ng whether a customer 
 experiencing payment difficul@es with their loan or not. Predictor includes columns like
 AMT_INCOME_TOTAL, AMT_CREDIT, FLAG_OWN_CAR, FLAG_OWN_REALTY
 
-The success of this project lies on the effec@ve iden@fica@on of both low and high-risk
+The success of this project lies on the effective identification of both low and high-risk
 customers. By achieving this, Home Credit can expand its loan offerings for low-risk customers,
 thereby increasing revenue genera@on and enhancing overall profitability.
 
