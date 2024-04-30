@@ -1,4 +1,7 @@
-# Summary of business problem and project objective
+# Home Credit
+
+### Summary of business problem and project objective
+
 Home Credit is presently encountering the risk of loan defaults due to extending loans to
 individuals in underserved demographics, who possess either inadequate or non-existent credit
 histories.
